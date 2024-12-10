@@ -1,6 +1,6 @@
 import NavBar from "../components/navbar";
 
-export default function History () {
+export default function History ({lastTen}) {
 
     return (
         <main>
